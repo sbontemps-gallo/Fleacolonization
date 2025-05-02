@@ -8,3 +8,5 @@ If you use any part of this macro for your research, we would appreciate it if y
 
 Dewitte A, Werkmeister E,Pierre F, Sebbane F, Bontemps-Gallo S. 2023. A Widefield Light Microscopy-Based Approach Provides Further Insights into the Colonization of the Flea Proventriculus by Yersinia pestis. Appl Environ Microbiol 89:e02091-22.
 https://doi.org/10.1128/aem.02091-22
+
+[![DOI](https://zenodo.org/badge/938300667.svg)](https://doi.org/10.5281/zenodo.15323328)
